@@ -1,0 +1,5 @@
+There are 4 IP addresses that are invalid more than 3 times.
+37.72.179.246
+182.18.172.66
+31.184.194.115
+95.110.213.46
